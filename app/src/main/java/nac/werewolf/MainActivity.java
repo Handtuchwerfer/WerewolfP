@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action Wer das lies ist Cali-M", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "Replace with your own action Wer das lies ist nicht mehr Cali-M", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });
